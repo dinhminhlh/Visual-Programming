@@ -71,3 +71,17 @@ E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\QuanLyBa
 E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
 E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
 E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+E:\Kỳ 1 năm 3\Visual-Programming\Lap_Trinh_Truc_Quan-AHiep\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+E:\Kỳ 1 năm 3\Visual-Programming\Lap_Trinh_Truc_Quan-AHiep\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+E:\Kỳ 1 năm 3\Visual-Programming\Lap_Trinh_Truc_Quan-AHiep\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+E:\Kỳ 1 năm 3\Visual-Programming\Lap_Trinh_Truc_Quan-AHiep\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+E:\Kỳ 1 năm 3\Visual-Programming\Lap_Trinh_Truc_Quan-AHiep\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form1.resources
+E:\Kỳ 1 năm 3\Visual-Programming\Lap_Trinh_Truc_Quan-AHiep\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Forms.frmHoaDonBan.resources
+E:\Kỳ 1 năm 3\Visual-Programming\Lap_Trinh_Truc_Quan-AHiep\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Forms.frmlogin.resources
+E:\Kỳ 1 năm 3\Visual-Programming\Lap_Trinh_Truc_Quan-AHiep\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Forms.frmSP.resources
+E:\Kỳ 1 năm 3\Visual-Programming\Lap_Trinh_Truc_Quan-AHiep\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMain.resources
+E:\Kỳ 1 năm 3\Visual-Programming\Lap_Trinh_Truc_Quan-AHiep\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+E:\Kỳ 1 năm 3\Visual-Programming\Lap_Trinh_Truc_Quan-AHiep\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+E:\Kỳ 1 năm 3\Visual-Programming\Lap_Trinh_Truc_Quan-AHiep\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+E:\Kỳ 1 năm 3\Visual-Programming\Lap_Trinh_Truc_Quan-AHiep\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+E:\Kỳ 1 năm 3\Visual-Programming\Lap_Trinh_Truc_Quan-AHiep\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
