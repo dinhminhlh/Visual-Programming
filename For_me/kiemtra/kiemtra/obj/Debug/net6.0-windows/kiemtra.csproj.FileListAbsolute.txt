@@ -1,0 +1,6 @@
+E:\Tai_lieu_cua_Minh\Ky_1_nam_3\Visual-Programming\For_me\kiemtra\kiemtra\obj\Debug\net6.0-windows\kiemtra.Form1.resources
+E:\Tai_lieu_cua_Minh\Ky_1_nam_3\Visual-Programming\For_me\kiemtra\kiemtra\obj\Debug\net6.0-windows\kiemtra.csproj.GenerateResource.cache
+E:\Tai_lieu_cua_Minh\Ky_1_nam_3\Visual-Programming\For_me\kiemtra\kiemtra\obj\Debug\net6.0-windows\kiemtra.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tai_lieu_cua_Minh\Ky_1_nam_3\Visual-Programming\For_me\kiemtra\kiemtra\obj\Debug\net6.0-windows\kiemtra.AssemblyInfoInputs.cache
+E:\Tai_lieu_cua_Minh\Ky_1_nam_3\Visual-Programming\For_me\kiemtra\kiemtra\obj\Debug\net6.0-windows\kiemtra.AssemblyInfo.cs
+E:\Tai_lieu_cua_Minh\Ky_1_nam_3\Visual-Programming\For_me\kiemtra\kiemtra\obj\Debug\net6.0-windows\kiemtra.csproj.CoreCompileInputs.cache
