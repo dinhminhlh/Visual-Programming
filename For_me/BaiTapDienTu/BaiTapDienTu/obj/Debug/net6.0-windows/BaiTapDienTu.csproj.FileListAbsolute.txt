@@ -1,0 +1,16 @@
+E:\Tai_lieu_cua_Minh\Ky_1_nam_3\Visual-Programming\For_me\BaiTapDienTu\BaiTapDienTu\bin\Debug\net6.0-windows\BaiTapDienTu.exe
+E:\Tai_lieu_cua_Minh\Ky_1_nam_3\Visual-Programming\For_me\BaiTapDienTu\BaiTapDienTu\bin\Debug\net6.0-windows\BaiTapDienTu.deps.json
+E:\Tai_lieu_cua_Minh\Ky_1_nam_3\Visual-Programming\For_me\BaiTapDienTu\BaiTapDienTu\bin\Debug\net6.0-windows\BaiTapDienTu.runtimeconfig.json
+E:\Tai_lieu_cua_Minh\Ky_1_nam_3\Visual-Programming\For_me\BaiTapDienTu\BaiTapDienTu\bin\Debug\net6.0-windows\BaiTapDienTu.dll
+E:\Tai_lieu_cua_Minh\Ky_1_nam_3\Visual-Programming\For_me\BaiTapDienTu\BaiTapDienTu\bin\Debug\net6.0-windows\BaiTapDienTu.pdb
+E:\Tai_lieu_cua_Minh\Ky_1_nam_3\Visual-Programming\For_me\BaiTapDienTu\BaiTapDienTu\obj\Debug\net6.0-windows\BaiTapDienTu.Form1.resources
+E:\Tai_lieu_cua_Minh\Ky_1_nam_3\Visual-Programming\For_me\BaiTapDienTu\BaiTapDienTu\obj\Debug\net6.0-windows\BaiTapDienTu.csproj.GenerateResource.cache
+E:\Tai_lieu_cua_Minh\Ky_1_nam_3\Visual-Programming\For_me\BaiTapDienTu\BaiTapDienTu\obj\Debug\net6.0-windows\BaiTapDienTu.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tai_lieu_cua_Minh\Ky_1_nam_3\Visual-Programming\For_me\BaiTapDienTu\BaiTapDienTu\obj\Debug\net6.0-windows\BaiTapDienTu.AssemblyInfoInputs.cache
+E:\Tai_lieu_cua_Minh\Ky_1_nam_3\Visual-Programming\For_me\BaiTapDienTu\BaiTapDienTu\obj\Debug\net6.0-windows\BaiTapDienTu.AssemblyInfo.cs
+E:\Tai_lieu_cua_Minh\Ky_1_nam_3\Visual-Programming\For_me\BaiTapDienTu\BaiTapDienTu\obj\Debug\net6.0-windows\BaiTapDienTu.csproj.CoreCompileInputs.cache
+E:\Tai_lieu_cua_Minh\Ky_1_nam_3\Visual-Programming\For_me\BaiTapDienTu\BaiTapDienTu\obj\Debug\net6.0-windows\BaiTapDienTu.dll
+E:\Tai_lieu_cua_Minh\Ky_1_nam_3\Visual-Programming\For_me\BaiTapDienTu\BaiTapDienTu\obj\Debug\net6.0-windows\refint\BaiTapDienTu.dll
+E:\Tai_lieu_cua_Minh\Ky_1_nam_3\Visual-Programming\For_me\BaiTapDienTu\BaiTapDienTu\obj\Debug\net6.0-windows\BaiTapDienTu.pdb
+E:\Tai_lieu_cua_Minh\Ky_1_nam_3\Visual-Programming\For_me\BaiTapDienTu\BaiTapDienTu\obj\Debug\net6.0-windows\BaiTapDienTu.genruntimeconfig.cache
+E:\Tai_lieu_cua_Minh\Ky_1_nam_3\Visual-Programming\For_me\BaiTapDienTu\BaiTapDienTu\obj\Debug\net6.0-windows\ref\BaiTapDienTu.dll
